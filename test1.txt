@@ -1,2 +1,3 @@
 Commande ECHO activ‚e.
-Bonjour
+Bonjour, tout le monde.
+
